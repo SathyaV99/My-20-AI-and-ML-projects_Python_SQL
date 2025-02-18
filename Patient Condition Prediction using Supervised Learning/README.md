@@ -1,3 +1,30 @@
+Developed a machine learning model for a medical research university to predict patient conditions based on biomechanical test data. The dataset included six biomechanics attributes, and the goal was to build an AI model capable of predicting a patient's condition accurately using supervised learning techniques.
+
+**What I Did**
+
+• Data Collection & Preprocessing: Cleaned, normalized, and visualized biomechanical patient data for effective feature engineering.
+
+• Feature Engineering & Selection: Identified key features impacting the prediction of patient conditions.
+
+• Model Development & Training: Applied classification algorithms such as Decision Trees, Random Forest, and Support Vector Machines (SVM).
+
+• Hyperparameter Tuning: Optimized model performance using techniques like Grid Search and Cross-Validation.
+
+• Evaluation & Deployment: Assessed model accuracy using confusion matrices, precision-recall analysis, and deployed a final model for inference.
+
+**Key Skills Demonstrated**
+
+• Machine Learning (ML): Applied classification models for healthcare prediction tasks.
+
+• Data Preprocessing & Feature Engineering: Cleaned, transformed, and analyzed patient biomechanics data.
+
+• Python Programming: Used Pandas, NumPy, Scikit-Learn, and Matplotlib for analysis and model building.
+
+• Model Evaluation & Optimization: Used metrics like F1-score, Precision, Recall, and AUC-ROC curves to assess performance.
+
+• AI in Healthcare: Implemented an ML pipeline for confidential medical data, showcasing domain knowledge.
+
+
 **SUMMARY** 
 
 The main objective of the project is to predict the class as "Normal", "Type H", "Type S" from the provided biomechanical features. In this project, data was cleaned, explored, analysed, visualized, pre processed, trained, tested and tuned. 
