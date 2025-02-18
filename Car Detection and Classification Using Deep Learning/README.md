@@ -3,7 +3,10 @@ Due to the enormous filesize, i've put the python notebook file in my googledriv
 
 https://drive.google.com/drive/folders/1-MljSHXFnPXh1O__03E63xvjDZ_1un4I?usp=sharing
 
+------------------------------------------------------------------------------------
+
 Data source : https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
+
 **Car Detection Project**
 
 **Contents**
