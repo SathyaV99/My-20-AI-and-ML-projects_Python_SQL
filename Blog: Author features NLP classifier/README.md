@@ -1,3 +1,22 @@
+Data source: https://www.kaggle.com/datasets/rtatman/blog-authorship-corpus
+
+Developed a multi-label text classification model that predicts multiple attributes of a blog post's author, such as age, gender, and writing style, based on Natural Language Processing (NLP) techniques. The model was trained using the Blog Authorship Corpus, which consists of over 600,000 blog posts from 19,320 bloggers.
+
+**What I Did**
+
+* Data Preprocessing: Cleaned and tokenized raw blog text using NLP techniques such as stopword removal, stemming, and TF-IDF vectorization.
+
+* Exploratory Data Analysis (EDA): Analyzed word distributions, n-grams, and topic modeling to understand writing patterns.
+
+* Feature Engineering: Extracted linguistic, lexical, and stylistic features from blog content.
+
+* Model Development: Built a multi-label classification model using Random Forest and Logistic Regression
+
+* Hyperparameter Tuning: Optimized models using Grid Search and Cross-Validation.
+
+* Model Evaluation: Assessed performance using accuracy, precision, recall, F1-score, and ROC-AUC curves.
+
+
 **SUMMARY**
 
 The main objective of the project is to use over 600,000 posts from from more than 19 thousand bloggers and label the blog such that they can be categorized according to different interests.
