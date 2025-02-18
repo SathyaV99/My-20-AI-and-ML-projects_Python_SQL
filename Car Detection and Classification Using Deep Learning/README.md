@@ -1,3 +1,5 @@
+Due to the enormous filesize, i've put the notebook in my googledrive: https://drive.google.com/drive/folders/1-MljSHXFnPXh1O__03E63xvjDZ_1un4I?usp=sharing
+
 **Car Detection Project**
 
 **Contents**
