@@ -1,0 +1,1 @@
+This Repository is 20 of the projects i did from my post graduate degree in Artificial Intelligence and Machine Learning. I've come a long way from these projects. Hence, thats why i've created a single repository for all of them instead of individual ones.
