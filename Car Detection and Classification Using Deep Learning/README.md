@@ -5,8 +5,6 @@ Due to the enormous filesize, i've put the python notebook file in my googledriv
 https://drive.google.com/drive/folders/1-MljSHXFnPXh1O__03E63xvjDZ_1un4I?usp=sharing
 
 
-Data source : https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
-
 **Car Detection Project**
 
 **Contents**
@@ -27,11 +25,14 @@ Data source : https://www.kaggle.com/datasets/jessicali9530/stanford-cars-datase
 14.	Streamlit local host - Model deployment into GUI API
 15.	Faster RCNN model on a video
 
+
 **1. Introduction**
 
 **1.1	Data Description**
 
 The Car Detection Dataset is using the Stanford’s Car Dataset which has 16,185 images of 196 classes of cars. The data is split into 8,144 train and 8,041 Annotations and test images, where each class has been split roughly in a 50-50 split. The Classes are typically at the level of Brand, Model, Year, Type.
+
+Data source : https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
 
 **The Dataset is as follows:**
 
