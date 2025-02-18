@@ -1,3 +1,5 @@
+Source of the Dataset: https://www.kaggle.com/datasets/uciml/biomechanical-features-of-orthopedic-patients
+
 Developed a machine learning model for a medical research university to predict patient conditions based on biomechanical test data. The dataset included six biomechanics attributes, and the goal was to build an AI model capable of predicting a patient's condition accurately using supervised learning techniques.
 
 **What I Did**
